@@ -26,3 +26,14 @@ And if you would like to mix and match, you may do that as well.  In other words
 Oops.  One more last thing.
 
 Make sure that your language is appropriate.  Not just for my sake, but because I might ask you to share at least one of your reasons with the class.
+
+Each response and justification
+
+Score | Percent | Description
+----- | ------- | -----------
+0- | 0 | No answer given.  No solution is attempted.
+0+ | 50 | An honest effort to explain is given.
+1 | 62.5% | An honest effort to explain is given.
+2 | 75% | Reason is given without justification.
+3 | 87.5% | Reason is given with minimal justification.
+4 | 100% | Reason is given with ample justification.
