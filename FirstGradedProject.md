@@ -27,7 +27,7 @@ Oops.  One more last thing.
 
 Make sure that your language is appropriate.  Not just for my sake, but because I might ask you to share at least one of your reasons with the class.
 
-Each response and justification
+Scoring for each response and justification
 
 Score | Percent | Description
 ----- | ------- | -----------
