@@ -33,7 +33,7 @@ Score | Percent | Description
 ----- | ------- | -----------
 0- | 0 | No answer given.
 0+ | 50 | An honest effort to explain is given.
-1 | 62.5% | An honest effort to explain is given.
-2 | 75% | Reason is given without justification.
-3 | 87.5% | Reason is given with minimal justification.
+1 | 62.5% | Reason is given without justification.
+2 | 75% | Reason is given with minimal justification.
+3 | 87.5% | Reason is given with some justification.
 4 | 100% | Reason is given with ample justification.
