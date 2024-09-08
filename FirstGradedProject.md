@@ -31,7 +31,7 @@ Scoring for each response and justification
 
 Score | Percent | Description
 ----- | ------- | -----------
-0- | 0 | No answer given.  No solution is attempted.
+0- | 0 | No answer given.
 0+ | 50 | An honest effort to explain is given.
 1 | 62.5% | An honest effort to explain is given.
 2 | 75% | Reason is given without justification.
