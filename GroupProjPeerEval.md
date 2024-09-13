@@ -10,3 +10,13 @@ Score | Description
 2 | The group member gave some worthy contributions to the effort.
 3 | The group member was an integral part of the effort.
 4 | The group member was indespensible.  The project would not have been completed without the group member.
+
+In addition to the score, each person must give at least one concrete reason for the score.
+
+A table like the following should be used by each group member to evaluate the other group members.
+
+Name | Score | Reason
+---- | ----- | ------
+&nbsp;  |   | 
+&nbsp;  |   | 
+&nbsp;  |   | 
