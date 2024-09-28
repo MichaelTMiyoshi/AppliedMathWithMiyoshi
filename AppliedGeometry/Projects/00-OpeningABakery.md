@@ -1,4 +1,4 @@
-# Opening a Bakery Project
+# Project: Opening a Bakery
 
 You  are planning to open a bakery.  And you want to start with your favorite cookie.  Which means that you need your favorite cookie recipe.  The problem is that you are going to need to be able to scale that recipe up so that you can order your supplies.  And you are going to need to be able to scale down your recipe to figure out how many ingredients are in each cookie so you can (if need be) figure out nutritional information per cookie.
 
