@@ -64,7 +64,9 @@ Show the math for your calculations.  Specifically, show the math for calculatin
 ### Answer these questions (10):
 
 If you assume a fixed amount of waste of each ingredient, how does that affect each graph?
+
 If you assume a certain percentage of waste for each ingredient, how does that affect each graph?
+
 How can you use your graphs as quality control?  (Think of inequalities.)
 
 ### Extension (10):
