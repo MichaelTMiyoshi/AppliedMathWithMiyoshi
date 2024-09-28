@@ -19,7 +19,7 @@ Start with the list of ingredients and their amounts.  Below is a list of ingred
 | 2 cups | NESTLÉ® Semi-sweet chocolate morsels |
 | 1 cup | Chopped walnuts (optional) |
 
-When I make this chocolate chip cookie recipe, I usually get 55 cookies.  I would simplify this amount to 50 cookies for the sake of this project.
+When I make this chocolate chip cookie recipe, I usually get 55 cookies.  (Actually, I usually get 52 cookies, plus three dough balls.  You are not supposed to eat raw dough because you are not supposed to eat raw eggs.)  I would simplify this amount to 50 cookies for the sake of this project.
 
 ## Deliverables:
 
