@@ -4,7 +4,7 @@ You are planning on moving out on your own.  In order to do so, you will need a 
 
 ## Deliverables:
 
-Create functions and draw their graphs using appropriate units.  Also give the domain (x or t) and range for each function.  Make sure to use different function names for each function.  You may need more functions than those shown.
+Create functions and draw their graphs using appropriate units.  Also give the domain (x or t) and range (y) for each function.  Make sure to use different function names for each function.  You may need more functions than those shown.
 
 ### Function of daily spending (10):
 
