@@ -49,11 +49,9 @@ Use a spreadsheet to show the graphs after you make your own hand-drawn graphs o
 
 ## Notes:
 
-This is an individual project.  You can, of course, help each other, but do not just copy each other.  (I would actually prefer that everybody in the class does a different recipe.)
+This is an individual project.  You can, of course, help each other, but do not just copy each other.  (I would actually prefer that everybody in the class uses different rents, wages, etc.)
 
-You may choose to do a recipe or recipes for something other than a cookie (you might be opening a restaurant instead of a bakery).  Just remember that you need to have at least 10 ingredients total in your recipe(s).
-
-Make your project beautiful.  Your graphs and math should be readable with labels and units.  Use a straight edge for your manually created graphs.
+Make your project beautiful.  Your functions and graphs should be readable with labels and units.  Use a straight edge for your manually created graphs.
 
 The extension is not part of the total.  It can add to your points, but you cannot receive more than the maximum points for the project (per current school policy).
 
