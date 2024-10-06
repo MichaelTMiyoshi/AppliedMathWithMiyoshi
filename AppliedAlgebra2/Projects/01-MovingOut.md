@@ -10,6 +10,8 @@ Create functions and draw their graphs using appropriate units.  Also give the d
 
 The first thing you will need to do is create a function of your daily spending as a running total.  (A running total is the sum of all the money going out).  How much money goes out?  The x-axis will be your time.  (So it is better to label it as t.)  Your y-axis will be your outflow of money.  So you can think of the graph you create as a function of t called m(t).  (The m could stand for money.)  You can use a standard notation of f(x) or f(t), or you can even use words to name your function (spending(t)).  Even though you may not spend money exactly the same way every day, create a fairly representative function of your spending for your waking hours.  If you drive, you will need to think of using gas as spending.  Think about what gas mileage your car gets and create a driving portion of your function based on that average.  Split your hours into fifteen minute increments at the smallest.  So even if it only takes you 5 minutes to get to school while driving, consider it 15 minutes (0.25 hour).
 
+If you operate on a cash basis, you can create a function of the total cash in your wallet or pocket.  Treat the money for travel as going out of your pocket too, even though it does not physically do so as you travel.
+
 ### Functions of monetary needs (budget) (30):
 
 You will need to create different functions for 2 years of different monetary needs.  Specifically, you will need separate functions for:
