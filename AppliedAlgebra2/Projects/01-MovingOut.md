@@ -59,4 +59,4 @@ The extension is not part of the total.  It can add to your points, but you cann
 
 The [grading rubric](https://github.com/MichaelTMiyoshi/AppliedMathWithMiyoshi/blob/main/GradingCriteria.md) will be used to grade each section.
 
-You can look at the [example document](https://github.com/MichaelTMiyoshi/AppliedMathWithMiyoshi/blob/main/AppliedAlgebra2/Projects/Moving%20Out%20example%20output.docx) which has explanations with example graphs.
+You can download and look at the [example document](https://github.com/MichaelTMiyoshi/AppliedMathWithMiyoshi/blob/main/AppliedAlgebra2/Projects/Moving%20Out%20example%20output.docx) which has explanations with example graphs.
