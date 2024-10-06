@@ -58,3 +58,5 @@ Make your project beautiful.  Your functions and graphs should be readable with 
 The extension is not part of the total.  It can add to your points, but you cannot receive more than the maximum points for the project (per current school policy).
 
 The [grading rubric](https://github.com/MichaelTMiyoshi/AppliedMathWithMiyoshi/blob/main/GradingCriteria.md) will be used to grade each section.
+
+You can look at the [example document](https://github.com/MichaelTMiyoshi/AppliedMathWithMiyoshi/blob/main/AppliedAlgebra2/Projects/Moving%20Out%20example%20output.docx) which has explanations with example graphs.
