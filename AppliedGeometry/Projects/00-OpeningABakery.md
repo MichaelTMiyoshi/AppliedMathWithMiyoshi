@@ -84,3 +84,5 @@ Make your project beautiful.  Your graphs and math should be readable with label
 The extension is not part of the total.  It can add to your points, but you cannot receive more than the maximum points for the project (per current school policy).
 
 The [grading rubric](https://github.com/MichaelTMiyoshi/AppliedMathWithMiyoshi/blob/main/GradingCriteria.md) will be used to grade each section.
+
+You can download and look at the [example document](https://github.com/MichaelTMiyoshi/AppliedMathWithMiyoshi/blob/main/AppliedGeometry/Projects/Opening%20a%20Bakery%20example%20output.docx) which has explanations with example graphs.
