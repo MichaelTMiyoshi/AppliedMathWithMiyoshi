@@ -35,3 +35,136 @@ Students need to do the following to demonstrate that they are meeting those sta
 ## Students shall use logic and reason to argue positions and support proofs.
 *	Analyze and meet criteria / requirements
 *	Create trigonometric proofs
+
+The Rubric is not yet complete, but it will look like the chart below.
+
+<table>
+  <tr>
+    <td></td>
+    <td colspan="4">Level of Competence</td>
+  </tr>
+  <tr>
+    <td>Criterion</td>
+    <td>Beginning</td>
+    <td>Developing</td>
+    <td>Proficient</td>
+    <td>Beyond Proficient (Exemplary)</td>
+  </tr>
+  <tr>
+     <td colspan="5">Students shall model the world mathematically</td>
+  </tr>
+  <tr>
+    <td>•	Write and solve equations</td>
+    <td>Beginning</td>
+    <td>Developing</td>
+    <td>Proficient</td>
+    <td>Beyond Proficient (Exemplary)</td>
+  </tr>
+  <tr>
+    <td>•	Create tables, graphs, and charts</td>
+    <td>Beginning</td>
+    <td>Developing</td>
+    <td>Proficient</td>
+    <td>Beyond Proficient (Exemplary)</td>
+  </tr>
+  <tr>
+     <td colspan="5">Students shall solve complex problems, even those they have not previously seen</td>  
+  </tr>
+  <tr>
+    <td>•	Use problem solving techniques to solve problems</td>
+    <td>Beginning</td>
+    <td>Developing</td>
+    <td>Proficient</td>
+    <td>Beyond Proficient (Exemplary)</td>
+  </tr>
+  <tr>
+    <td>•	Solve equations and systems of equations</td>
+    <td>Beginning</td>
+    <td>Developing</td>
+    <td>Proficient</td>
+    <td>Beyond Proficient (Exemplary)</td>
+  </tr>
+  <tr>
+     <td colspan="5">Students shall use and prepare data for analysis, prediction, and planning</td>  
+  </tr>
+  <tr>
+    <td>•	Gather data</td>
+    <td>Beginning</td>
+    <td>Developing</td>
+    <td>Proficient</td>
+    <td>Beyond Proficient (Exemplary)</td>
+  </tr>
+  <tr>
+    <td>•	Create tables, graphs, charts</td>
+    <td>Beginning</td>
+    <td>Developing</td>
+    <td>Proficient</td>
+    <td>Beyond Proficient (Exemplary)</td>
+  </tr>
+  <tr>
+    <td>•	Recognize patterns</td>
+    <td>Beginning</td>
+    <td>Developing</td>
+    <td>Proficient</td>
+    <td>Beyond Proficient (Exemplary)</td>
+  </tr>
+  <tr>
+    <td>•	Predict trends</td>
+    <td>Beginning</td>
+    <td>Developing</td>
+    <td>Proficient</td>
+    <td>Beyond Proficient (Exemplary)</td>
+  </tr>
+  <tr>
+    <td>•	Make plans based on data</td>
+    <td>Beginning</td>
+    <td>Developing</td>
+    <td>Proficient</td>
+    <td>Beyond Proficient (Exemplary)</td>
+  </tr>
+  <tr>
+     <td colspan="5">Students shall have number sense</td>  
+  </tr>
+  <tr>
+    <td>•	Make estimates</td>
+    <td>Beginning</td>
+    <td>Developing</td>
+    <td>Proficient</td>
+    <td>Beyond Proficient (Exemplary)</td>
+  </tr>
+  <tr>
+    <td>•	Use simple (and complex) mathematic operations to determine answers</td>
+    <td>Beginning</td>
+    <td>Developing</td>
+    <td>Proficient</td>
+    <td>Beyond Proficient (Exemplary)</td>
+  </tr>
+  <tr>
+    <td>•	Understand domain and range and how they are applicable to problems</td>
+    <td>Beginning</td>
+    <td>Developing</td>
+    <td>Proficient</td>
+    <td>Beyond Proficient (Exemplary)</td>
+  </tr>
+  <tr>
+     <td colspan="5">Students shall use logic and reason to argue positions and support proofs</td>  
+  </tr>
+  <tr>
+    <td>•	Analyze and meet criteria / requirements</td>
+    <td>Beginning</td>
+    <td>Developing</td>
+    <td>Proficient</td>
+    <td>Beyond Proficient (Exemplary)</td>
+  </tr>
+  <tr>
+    <td>•	Create trigonometric proofs</td>
+    <td>Beginning</td>
+    <td>Developing</td>
+    <td>Proficient</td>
+    <td>Beyond Proficient (Exemplary)</td>
+  </tr>
+</table>
+
+### Note: 
+
+This is a working document and changes will be made as needed.
