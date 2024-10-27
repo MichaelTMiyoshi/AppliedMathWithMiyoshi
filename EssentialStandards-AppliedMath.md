@@ -1,6 +1,6 @@
 # Essential Standards
 
-A workshop leader explained to the audience that an essential standard is something that you would be horrified to know that a student who took your class did not know.  It might be a big concept or not.  But it is essential that every student knows.  I kept this in mind when I came up with the following essential standards.
+A workshop leader explained to the audience that an essential standard is something that you would be horrified to know that a student who took your class did not know.  It might be a big concept or not.  But it is essential that every student knows.  I kept this in mind when I came up with the following essential standards for my Applied Math classes.
 
 Students shall:
 1. Model the world mathematically
