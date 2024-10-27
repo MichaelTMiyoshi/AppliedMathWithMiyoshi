@@ -1,6 +1,6 @@
 # Applied Geometry Essential Standards
 
-It is my goal that every student who takes Applied Geometry from me has the following essential standards.
+It is my goal that every student who takes Applied Geometry from me learn the following essential standards.
 
 Students shall:
 1. Model the world mathematically
