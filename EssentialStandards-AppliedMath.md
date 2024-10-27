@@ -9,4 +9,4 @@ Students shall:
 1. Have number sense
 1. Use logic and reason to argue positions and support proofs
 
-Students will show that they have met these standards in various ways.  They will produce products, pass tests, and present what they know in various ways.  A rubric or set of criteria will show that they have met these standards.  (The rubrics have not yet been created, but specifics for these essential standards are shown in pages for Applied Geometry and Applied Algebra 2.
+Students will show that they have met these standards in various ways.  They will produce products, pass tests, and present what they know in various ways.  A rubric or set of criteria will show that they have met these standards.  (The rubrics have not yet been created, but specifics for these essential standards are shown in pages for [Applied Geometry](https://github.com/MichaelTMiyoshi/AppliedMathWithMiyoshi/blob/main/AppliedGeometry/EssentialStandards-AppliedGeometry.md) and [Applied Algebra 2](https://github.com/MichaelTMiyoshi/AppliedMathWithMiyoshi/blob/main/AppliedAlgebra2/EssentialStandards-AppliedAlgebra2.md).
