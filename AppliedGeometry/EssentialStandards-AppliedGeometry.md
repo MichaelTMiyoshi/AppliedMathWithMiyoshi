@@ -174,7 +174,7 @@ The Rubric is not yet complete, but it will look like the chart below.
     <td>•	Create geometric proofs</td>
     <td>Beginning</td>
     <td>Developing</td>
-    <td>Identifies and uses identies, definitions, and other "knowns" to support arguments for geometric proofs</td>
+    <td>Identifies and uses identies, definitions, and other "knowns" to support arguments for geometric proofs.</td>
     <td>Identifies and uses identies, definitions, and other knowns to support arguments for any sort of proof or stance.</td>
   </tr>
 </table>
