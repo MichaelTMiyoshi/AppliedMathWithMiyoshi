@@ -57,14 +57,14 @@ The Rubric is not yet complete, but it will look like the chart below.
     <td>•	Write and solve equations</td>
     <td>Beginning</td>
     <td>Developing</td>
-    <td>Proficient</td>
+    <td>Reads and understands a problem.  Creates equations and systems of equations to state the problem mathematically.</td>
     <td>Beyond Proficient (Exemplary)</td>
   </tr>
   <tr>
     <td>•	Create tables, graphs, and charts</td>
     <td>Beginning</td>
     <td>Developing</td>
-    <td>Proficient</td>
+    <td>Creates tables, graphs, charts that are appropriate for communicating what the data actually says.  Takes into consideration what the data is to be used for in determining the best way to show the data.</td>
     <td>Beyond Proficient (Exemplary)</td>
   </tr>
   <tr>
