@@ -61,7 +61,7 @@ The Rubric is not yet complete, but it will look like the chart below.
     <td>Beyond Proficient (Exemplary)</td>
   </tr>
   <tr>
-    <td>•	Create tables, graphs, and charts</td>
+    <td>•	Create tables, graphs, and charts (also listed in data section)</td>
     <td>Beginning</td>
     <td>Developing</td>
     <td>Creates tables, graphs, charts that are appropriate for communicating what the data actually says.  Takes into consideration what the data is to be used for in determining the best way to show the data.</td>
