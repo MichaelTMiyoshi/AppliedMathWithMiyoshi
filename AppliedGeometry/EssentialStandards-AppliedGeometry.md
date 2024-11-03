@@ -55,24 +55,31 @@ The Rubric is not yet complete, but it will look like the chart below.
   </tr>
   <tr>
     <td>•	Identify geometric entities</td>
-    <td>Beginning</td>
-    <td>Developing</td>
-    <td>Proficient</td>
-    <td>Beyond Proficient (Exemplary)</td>
+    <td>Recognizes points, lines, line segments, angles, parallel lines, and perpendicular lines.</td>
+    <td>Recognizes complementary and supplementary angles.  Recognizes simple shapes such as rectangles, squares, arcs, circles.</td>
+    <td>Understands what "regular" shapes are.  Can calculate the interior angles of regular shapes.  </td>
+    <td>Can break down complex shapes into triangles, rectangles, squares, and other shapes that are easily defined.</td>
   </tr>
   <tr>
     <td>•	Draw and construct geometric figures</td>
-    <td>Beginning</td>
-    <td>Developing</td>
-    <td>Proficient</td>
-    <td>Beyond Proficient (Exemplary)</td>
+    <td>Recognizes parallel and perpendicular lines.  Recognizes complementary and supplementary angles.  Recognizes simple shapes such as rectangles, squares, circles.  Attempts to sketch and construct these elements.</td>
+    <td>Constructs parallel and perpendicular lines.  Constructs complementary and supplementary angles.  Constructs simple shapes such as rectangles, squares, circles.</td>
+    <td>Creates perpendicular bisectors of lines, bisectors of angles.  Understands scale and attempts to create objects to scale.</td>
+    <td>Constructs complex shapes from simple shapes.  Creates objects to specific scales.</td>
   </tr>
   <tr>
-    <td>•	Compute area, volume, and surface area of figures</td>
-    <td>Beginning</td>
-    <td>Developing</td>
-    <td>Proficient</td>
-    <td>Beyond Proficient (Exemplary)</td>
+    <td>•	Compute perimeter and area of 2D figures</td>
+    <td>Understands what perimeter and area of 2D figures are.</td>
+    <td>Estimates perimeter and area of 2D figures.</td>
+    <td>Calculates perimeter and area of simple 2D figures such as circles, triangles, squares, and rectangles.</td>
+    <td>Calculates perimeter of any 2D figure.  Breaks down complex shapes into simple shapes to calculate or approximate area.</td>
+  </tr>
+  <tr>
+    <td>•	Compute surface area and volume of 3D figures</td>
+    <td>Understands what surface area and volume of 3D figures are.</td>
+    <td>Estimates surface area and volume of 3D figures.</td>
+    <td>Calculates surface area and volume of simple 3D figures such as spheres, cylinders, rectangular prisms.</td>
+    <td>Calculates surface area and volume of any 3D figure.  Breaks down complex shapes into simple shapes to calculate or approximate surface area and volume.</td>
   </tr>
   <tr>
      <td colspan="5">Students shall solve complex problems, even those they have not previously seen</td>  
