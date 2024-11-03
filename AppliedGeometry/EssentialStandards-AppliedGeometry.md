@@ -158,7 +158,7 @@ The Rubric is not yet complete, but it will look like the chart below.
     <td>Beginning</td>
     <td>Developing</td>
     <td>Recognizes relationships and equations, and can identify domain (independent variable) and range (dependent variable).</td>
-    <td>Beyond Proficient (Exemplary)</td>
+    <td>Recognizes how the specifics of a problem provide limiting factors on domain (and thus range).</td>
   </tr>
   <tr>
      <td colspan="5">Students shall use logic and reason to argue positions and support proofs</td>  
@@ -167,15 +167,15 @@ The Rubric is not yet complete, but it will look like the chart below.
     <td>•	Analyze and meet criteria / requirements</td>
     <td>Beginning</td>
     <td>Developing</td>
-    <td>Identifies and uses knowns to support arguments.</td>
-    <td>Beyond Proficient (Exemplary)</td>
+    <td>Identifies criteria and requirements to determine whether a problem or project is complete.</td>
+    <td>Uses criteria and requirements to self-evaluate projects and determine whether a project or problem is complete or not.</td>
   </tr>
   <tr>
     <td>•	Create geometric proofs</td>
     <td>Beginning</td>
     <td>Developing</td>
     <td>Identifies and uses identies, definitions, and other "knowns" to support arguments for geometric proofs</td>
-    <td>Beyond Proficient (Exemplary)</td>
+    <td>Identifies and uses identies, definitions, and other knowns to support arguments for any sort of proof or stance.</td>
   </tr>
 </table>
 
