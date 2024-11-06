@@ -41,7 +41,7 @@ This seems to be an art project.  What are some of the important math concepts t
 
 What is the importance of knowing what complementary and supplementary angles are?
 
-### Extension (8):
+### Extension (4):
 
 Find the cost of what your stained glass masterpiece would be based on the size and color of the glass you would use.
 
