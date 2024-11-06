@@ -13,14 +13,14 @@ The elements will have the following points associated with them.
 
 Requirement | Points 
 ----------- | ------ 
-Size (6'x3') |  
-Scale drawing(s) |  
-Parallel Lines |  
-Perpendicular Lines |  
-At least one semicircle |  
-At least one bisected angle |  
-At least 10 pieces |  
-Pieces cut from cardboard or paper arranged as designed | 
+Size (6'x3') |  4
+Scale drawing(s) |  4
+Parallel Lines |  4
+Perpendicular Lines |  4
+At least one semicircle |  4
+At least one bisected angle |  4
+At least 10 pieces |  4
+Pieces cut from cardboard or paper arranged as designed | 8
 
 ## Deliverables:
 
@@ -28,13 +28,13 @@ You will actually make a scale model of your design.  It can either be made full
 
 You will also have instructions on how to put your design together.
 
-### Answer these questions (10):
+### Answer these questions (4):
 
 This seems to be an art project.  What are some of the important math concepts that you used to create your masterpiece?
 
 What is the importance of knowing what complementary and supplementary angles are?
 
-### Extension (10):
+### Extension (8):
 
 Find the cost of what your stained glass masterpiece would be based on the size and color of the glass you would use.
 
