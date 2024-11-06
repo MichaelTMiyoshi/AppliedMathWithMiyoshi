@@ -1,6 +1,6 @@
 # Project: Designing a Stained Glass Window
 
-The Essential Standards addressed in this project are:
+The [Essential Standards](https://github.com/MichaelTMiyoshi/AppliedMathWithMiyoshi/blob/main/AppliedGeometry/EssentialStandards-AppliedGeometry.md) addressed in this project are:
 
 * Model the world mathematically
 * Have number sense
