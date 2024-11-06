@@ -12,7 +12,7 @@ You are going to design a stained glass window that is a minimum of 6' x 3'.  It
 The elements will have the following points associated with them.
 
 Requirement | Points 
------------ | ------ 
+----------- | -----: 
 Size (6'x3') |  4
 Scale drawing(s) |  4
 Parallel Lines |  4
