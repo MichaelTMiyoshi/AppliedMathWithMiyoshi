@@ -1,5 +1,12 @@
 # Project: Designing a Stained Glass Window
 
+The Essential Standards addressed in this project are:
+
+* Model the world mathematically
+* Have number sense
+
+The ways students will meet these standards are through actually constructing parallel and perpendicular lines, bisecting angles, creating arcs and circles, and doing the other necessary things to create scale drawings and models.  Students will help gain number sense through measuring distances and angles, and through estimating the same.
+
 You are going to design a stained glass window that is a minimum of 6' x 3'.  It must have the following requirements.
 
 * Scale drawing(s);
