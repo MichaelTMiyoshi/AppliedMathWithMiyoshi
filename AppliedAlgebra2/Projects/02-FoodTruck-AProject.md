@@ -12,6 +12,8 @@ Determine what four ingredients you will be using for your food item.  You are o
 
 You will need to do some research for this portion, but your aim is to fill out the price worksheet and minimum sales.  (Note: Using the example numbers will earn you a maximum of 75% of the maximum points.)
 
+### Pricing Worksheet
+
 The purpose of the pricing worksheet is to determine the price of your single food item.  My example choice is to make tacos.  My example just uses small portions of the ingredients.  I also determined that my secret spice is going to cost a specific dollar amount per item (taco).  You will want to find the costs of your four ingredients and then determine how much will go into your food item.  Ideally, you would do some experimenting to determine the amounts.  (You would make your tacos and weigh ingredients.)  My example just uses guesses.  Probably low guesses.
 
 As a retailer, you would have access to lower prices than I have listed.  But this example just uses retail prices that I found online at a major retail food seller.
@@ -59,3 +61,46 @@ Note | Amount
 Markup of 2 tacos per order | $7.34
 Final cost to consumer (without sales tax) | $10.00
 Final cost with 9.0% sales tax | $10.90
+
+### Minimum Sales Worksheet
+
+The minimum sales worksheet is designed to help you decide how much inventory you will take with you each day.  You will have the ingredients for a certain amount of sales for each day.  So you need to figure out how much your expenses are each day.
+
+Overhead is cost that you incur whether you actually open the doors to your business or not.  They would include things like mortgage or rent, utilities, insurance, licensing, and the like.  I make things simple and decided that a payment for the food truck, utilities, and licensing would be a good simulation.  I used simple numbers as well.
+
+While having the number of payments per month is nice, we really want to figure out how much we will be paying each day toward the overhead costs.  I have simplified things by making each month a 28 day month.  So adding up the total overhead ($800 + $150 + $50 = $1000) and dividing by 28 we get an overhead cost of $35.71 per day.  No matter how many days we operate the truck each month, we need to make sure we make at least $35.71 to pay for the things we need to run.  Our overhead.
+
+Item | how often | Cost
+---- | --------- | ---:
+Truck Loan payment | per month | $800.00
+Utilities | per month | $150.00
+Licensing | per month | $50.00
+Total | per month | $1000.00
+Total | per day | $35.71
+
+I decided that the work week will be 36 hours six days a week.  I would have one employee at $20 / hour in the example.  There are many reasons for paying somebody over the minimum wage, which would be a great discussion.  For now, suffice it to say that you may choose what wage you will pay.  I am using something simple.
+
+So an employee making $20 / hour for 36 hours a week will make $720.00 per week ($20/hour * 36 hours = $720).  We need to figure out how much our employee will cost per day too.  So when we can either multiply the rate times the number of hours per day ($20 / hour * 6 hours = $120) or we can divide the weekly total by the number of days ($720 per week / 6 days per week = $120 per day).  They should be the same number (which they are).
+
+Our cost of goods sold cannot be found unless we know how many orders we will serve.  But we cannot know how many customers we will serve before we serve them.  It is quite the dilemma.  So we just guess.  We want to make as good of a guess as we can, but it is still going to be a guess.  I decided that a first guess ought to be 250 orders per day.  If our day of serving is 4 or 5 hours (remember that we will need to prepare and travel), that is between 50 and 63 orders per hour.  If we say that each person gets an average of 2 orders, that is only 25-32 customers per hour.  Not unreasonable.
+
+So if our number of customers is 250 per day and we sell our product at $10, we will make $2500.  I know that is the last item on the list (estimated income), but it is a quick calculation that we can make.
+
+The last calculation we need to make is the daily cost of goods sold.  We take our cost per 2 tacos ($1.33 * 2) and multiply by the number of taco orders (250).  This will give us a total cost of goods sold for the day.  ($2.66 / order * 250 orders = $665.00)
+
+The estimated income per day is just the number of orders (250) times the cost per order ($10.00), which is $2500.00
+
+Our final minimum sales worksheet will look like the following.
+
+Item | Per Day Cost
+---- | -----------:
+Overhead | $35.71
+Payroll | $120.00
+Cost of Goods Sold (250 orders) | $665.00
+Total | $820.71
+
+Item | Per Day Income
+---- | -------------:
+The price per customer (order of 2 tacos) | $10.00
+Estimated number of customers per day | 250
+Estimated income per day | $2500.00
