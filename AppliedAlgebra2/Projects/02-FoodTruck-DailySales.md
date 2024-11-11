@@ -2,7 +2,9 @@
 
 This file has the random amounts of sales that you will have during each of four weeks.  The outcomes for each day are determined by 12 possible outcomes.  These outcomes are determined by chance.  The chance is determined by two factors.  The first factor is a decision of whether to use a 12-sided die (1-12) or a pair of 6-sided dice (2-12).  There is a one in three chance that the 12-sided die will be used.
 
-The possible outcomes for the day are in the table below.
+The file [02-FoodTruck-DailyLottery.xlsx](https://github.com/MichaelTMiyoshi/AppliedMathWithMiyoshi/blob/main/AppliedAlgebra2/Projects/02-FoodTruck-DailyLottery.xlsx) can be used to give different outcomes.  When you download it, you will get a new set of random numbers each time you open the file.  You can get a set of specific outcomes by copying the outcomes and copying the values with a paste special.  (The values below were saved in the files below the randomly generated outcomes.)
+
+The possible outcomes for each day (28 days) are in the table below.
 
 Roll | Outcome
 ---- | -------
