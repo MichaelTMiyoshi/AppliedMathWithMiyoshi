@@ -70,7 +70,7 @@ The minimum sales worksheet is designed to help you decide how much inventory yo
 
 Overhead is cost that you incur whether you actually open the doors to your business or not.  They would include things like mortgage or rent, utilities, insurance, licensing, and the like.  I make things simple and decided that a payment for the food truck, utilities, and licensing would be a good simulation.  I used simple numbers as well.
 
-While having the number of payments per month is nice, we really want to figure out how much we will be paying each day toward the overhead costs.  I have simplified things by making each month a 28 day month.  So adding up the total overhead ($800 + $150 + $50 = $1000) and dividing by 28 we get an overhead cost of $35.71 per day.  No matter how many days we operate the truck each month, we need to make sure we make at least $35.71 to pay for the things we need to run.  Our overhead.
+While having the number of payments per month is nice, we really want to figure out how much we will be paying each day toward the overhead costs.  I have simplified things by making each month a 28 day month and the number of days working is 24 (six days a week).  So adding up the total overhead ($800 + $150 + $50 = $1000) and dividing by 24 we get an overhead cost of $41.67 per day.  No matter how many days we operate the truck each month, we need to make sure we make at least $41.67 to pay for the things we need to run.  Our overhead.  I have moved the overhead cost per day up to $41.70 to make sure we do not have any rounding errors.
 
 Item | how often | Cost
 ---- | --------- | ---:
@@ -96,7 +96,7 @@ Our final minimum sales worksheet will look like the following.
 
 Item | Per Day Cost
 ---- | -----------:
-Overhead | $35.71
+Overhead | $41.70
 Payroll | $120.00
 Cost of Goods Sold (250 orders) | $665.00
 Total | $820.71
