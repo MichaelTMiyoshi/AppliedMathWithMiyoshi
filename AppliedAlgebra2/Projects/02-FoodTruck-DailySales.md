@@ -4,7 +4,7 @@ This file has the random amounts of sales that you will have during each of four
 
 The file [02-FoodTruck-DailyLottery.xlsx](https://github.com/MichaelTMiyoshi/AppliedMathWithMiyoshi/blob/main/AppliedAlgebra2/Projects/02-FoodTruck-DailyLottery.xlsx) can be used to give different outcomes.  When you download it, you will get a new set of random numbers each time you open the file.  You can get a set of specific outcomes by copying the outcomes and copying the values with a paste special.  (The values below were saved in the files below the randomly generated outcomes.)
 
-The possible outcomes for each day (28 days) are in the table below.
+The possible outcomes below are the outcomes based on the rolls of dice (or single 12-sided die).
 
 Roll | Outcome
 ---- | -------
@@ -21,7 +21,9 @@ Roll | Outcome
 11 | You sell 91% of your inventory.
 12 | Power outage.  You take inventory to a homeless shelter.  The amount of your inventory you take to the shelter is 30%.
 
-The outcomes for the days are shown below.  Unfortunately, days 7, 14, 21, and 28 are not days when you will be working.  You will only work 6 days and the seventh day will be used to make predictions for the week to come.
+The possible outcomes for each day (28 days) are in the table below.  Unfortunately, days 7, 14, 21, and 28 are not days when you will be working.  You will only work 6 days and the seventh day will be used to make predictions for the week to come.
+
+You will use these outcomes to calculate your daily income and determine whether you make money or not.  You will use the first month of income (and expenses) to make predictions and decide how many items you will prepare each day for sale.
 
 Day | Roll | Outcome
 --- | ---- | -------
@@ -54,4 +56,4 @@ Day | Roll | Outcome
 27 | 6 | People continue to line up at closing.  You sell out 1/2 hour after closing.
 28 | 11 | You sell 88% of your inventory.
 
-
+You may use these outcomes for your first "month" of operation.  The second "month", you will get a new set of outcomes.
