@@ -12,6 +12,8 @@ Determine what four ingredients you will be using for your food item.  You are o
 
 You will need to do some research for this portion, but your aim is to fill out the price worksheet and minimum sales.  (Note: Using the example numbers will earn you a maximum of 75% of the maximum points.)
 
+Points:  Points will be earned for filling out the pricing worksheet and mimimum sales worksheet properly.  Each item must be filled in with reasonable amounts.  Prices must have a website reference where they were found.  Calculations must be made on the sides of the respective worksheets.  Sums, divisions, percentages must be shown.  All the cells must be labeled and filled in properly.  After you do it by hand, you may put the data into a spreadsheet.
+
 ### Pricing Worksheet
 
 The purpose of the pricing worksheet is to determine the price of your single food item.  My example choice is to make tacos.  My example just uses small portions of the ingredients.  I also determined that my secret spice is going to cost a specific dollar amount per item (taco).  You will want to find the costs of your four ingredients and then determine how much will go into your food item.  Ideally, you would do some experimenting to determine the amounts.  (You would make your tacos and weigh ingredients.)  My example just uses guesses.  Probably low guesses.
