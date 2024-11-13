@@ -4,7 +4,7 @@ You are planning to open a food truck.  Your plan is simple.  Make one food item
 
 The files associated with this simulation are in the projects folders with the naming convention 02-FoodTruck.
 
-The project will be broken up into 4 parts and each part will be turned in separately.  They may also be turned in at the end, but each portion will go into the gradebook at set times.
+The project will be broken up into 4 parts and each part will be turned in separately.  They may also be turned in together at the end, but each portion will go into the gradebook at set times.
 
 ## Part 1 - Research (20)
 
