@@ -20,15 +20,17 @@ The cost of goods sold ought to be the same each day of any particular week.
 
 You should not change the number of products you will try to sell during the days of the week.  Keep them constant for at least one week.  Then, after a week, you can change the number of products you plan to sell as long as you can justify it through your data.
 
+Your income will be determined based on the [Daily Sales](https://github.com/MichaelTMiyoshi/AppliedMathWithMiyoshi/blob/main/AppliedAlgebra2/Projects/02-FoodTruck-DailySales.md) as listed in the linked page.  Note that the page has 28 days.  Days 7, 14, 21, and 28 will not be used as sales days, so you can ignore them for your income.
+
 Points:  Points will be earned by filling in the proper amounts for each day of the month on each of the various worksheets (15 points) and making graphs of your income or number of items sold (10 points) and justifying your changes (or no changes) in your inventory plan for the weeks (5 points).  Several of the worksheets will have the same or similar numbers in them each day, but they must still be filled out properly.  Sums for each week must be completed as well.  Graphs of the sales for one week, two weeks, three weeks, and four weeks (make sure to include all the weeks when creating the graphs beyond the first week of data) must be done.  Look at the graphs and write down reasons based on those graphs as to why you would want to change the daily inventory for the next week.
 
 Other formulas for daily amounts that you will need follow:
 
 ```
-CoGS = (PriceIngredient1 + PriceIngredient2 + PriceIngredient3 + PriceIngredient4 + PriceIngredient5) * NumberOfProducts
+CoGS = (PriceIngredient1 + PriceIngredient2 + PriceIngredient3 + PriceIngredient4 + PriceIngredient5) * NumberOfInventoryProducts
 Payroll = Rate * HoursPerDay
 MonthlyOverhead = TruckPayment + Utilities + Licensing
 DailyOverhead = MonthlyOverhead / DaysWorking
-Income = NumberOfProducts * ConsumerPrice
+Income = NumberOfProductsSold * ConsumerPrice
 Net = Income - (CoGS + Payroll + DailyOverhead)
 ```
