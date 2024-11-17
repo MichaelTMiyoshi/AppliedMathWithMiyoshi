@@ -18,7 +18,7 @@ If there are more ingredients in your recipe, you will have more ingredients in 
 
 The cost of goods sold will be the same each day of any particular week.  In other words, you should not change the number of products you will try to sell during the days of the week.  Keep them constant for at least one week.  Then, after a week, you can change the number of products you plan to sell as long as you can justify it through your data.
 
-Your income will be determined based on the [Daily Sales](https://github.com/MichaelTMiyoshi/AppliedMathWithMiyoshi/blob/main/AppliedAlgebra2/Projects/02-FoodTruck-DailySales.md) as listed in the linked page.  Note that the page has 28 days.  Days 7, 14, 21, and 28 will not be used as sales days, so you can ignore them for your income.
+Your income will be determined based on the [Daily Sales](https://github.com/MichaelTMiyoshi/AppliedMathWithMiyoshi/blob/main/AppliedAlgebra2/Projects/02-FoodTruck-DailySales-Month2.md) as listed in the linked page.  Note that the page has 28 days.  Days 7, 14, 21, and 28 will not be used as sales days, so you can ignore them for your income.
 
 You will have some other things happen in this third phase.  You will have various good and bad things happen.  These are on the linked page as well.  Note that you will have some flexibility with these happenings.  For instance, if you get ill, you will decide whether you are going to reduce your income or hire somebody to take your place (which increasses your payroll).
 
