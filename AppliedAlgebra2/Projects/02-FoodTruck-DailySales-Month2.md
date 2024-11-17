@@ -1,4 +1,4 @@
-# 02 - Food Truck - Daily Sales
+# 02 - Food Truck - Daily Sales - Month 2
 
 This file has the random amounts of sales that you will have during each of four weeks.  The outcomes for each day are determined by 12 possible outcomes.  These outcomes are determined by chance.  The chance is determined by two factors.  The first factor is a decision of whether to use a 12-sided die (1-12) or a pair of 6-sided dice (2-12).  There is a one in three chance that the 12-sided die will be used.
 
