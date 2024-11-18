@@ -78,7 +78,7 @@ Truck Loan payment | per month | $800.00
 Utilities | per month | $150.00
 Licensing | per month | $50.00
 Total | per month | $1000.00
-Total | per day | $35.71
+Total | per day | $41.70
 
 I decided that the work week will be 36 hours six days a week.  I would have one employee at $20 / hour in the example.  There are many reasons for paying somebody over the minimum wage, which would be a great discussion.  For now, suffice it to say that you may choose what wage you will pay.  I am using something simple.
 
