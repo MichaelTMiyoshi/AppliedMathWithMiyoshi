@@ -27,7 +27,8 @@ Perpendicular Lines |  4
 At least one semicircle |  4
 At least one bisected angle |  4
 At least 10 pieces |  4
-Pieces cut from cardboard or paper arranged as designed | 8
+Measure and label each angle of at least 10 of your shapes | 8
+(Extension/Extra) Pieces cut from cardboard or paper arranged as designed | 8
 
 ## Deliverables:
 
