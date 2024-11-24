@@ -2,9 +2,11 @@
 
 Students will uphold a positive learning environment as defined by the following five skills and how those skills are evaluated.
 
+These skills fit under the [21st Century skills](https://www.icevonline.com/blog/what-are-21st-century-skills) - Category 3. Life Skills.  The two main life skills where they fit are Productivity and Social Skills.
+
 Skill | Negatively affecting | Non-adherent | Beginning | Developing | Proficient | Beyond Proficient (Exemplary)
 ----- | -------------------: | -----------: | --------: | ---------: | ---------: | ----------------------------:
-The student: | -1 | 0 | 1 | 2 | 3 | 4
+The student: | 0 | 0.5 | 1 | 2 | 3 | 4
 respects personal space | Makes degrading and/or offensive sounds, gestures, comments.  Touches other students.  Throws materials at others. | Touches other students.  Throws materials at others.  Laughs at other students. | Keeps to self, and does not make comments to or about others. |	Keeps to self, and does not make comments to or about others. | Stays in own personal space and keeps all own materials in personal space.  Only makes positive comments to others. | Sticks up for others when somebody's personal space is being violated.  Gives encouraging words to all.
 keeps workspace clean	| Workspaces are written on or have been otherwise vandalized. | Garbage is left at or near workstation. | Chair is not pushed in.  Computer keyboard and mouse are disconnected or missing. | Chairs is pushed in.  Computer and keyboard are ready for students coming in next. | Own workspace (including the floor) and workspaces around the student are free from debris when the student leaves.  Chairs are pushed in.  Computers are neat. | Keeps own workspace clean and free from graffiti and garbage.  Helps others to do the same, including pushing in chairs and neatening computers.
 only uses cell phones with permission | Uses cell phone withou first asking for permission. | Uses cell phone for purposes not related to class or school. | Puts cell phone in proper place when asked one time, but must be asked more than one time to put it away. | Puts cell phone in proper place when asked one time, and keeps it away until given permission or until class ends. | Only uses cell phone when given prior permission.  Keeps it in its proper place at all other times. | Only uses cell phone when given prior permission and when it has to do with school work.
@@ -14,3 +16,5 @@ advocates for others | Makes degrading and/or offensive sounds, gestures, commen
 ## Evaluation
 
 In classes where this competency is formally evaluated, students will receive a weekly grade based on the lowest day of the week according to the scale above.  This will be monitored in the assignment portion of the grade (which has no effect on the grade).  This weekly grade will be translated to a competency score (which does count toward a student's grade).  These final grades will depend on how well the students increase, maintain, or decrease their weekly scores.
+
+Note:  The scores reflect the fact that a negative score is not possible in many grade book programs.  The 0.5 score corresponds to 50% score in the gradebook.
