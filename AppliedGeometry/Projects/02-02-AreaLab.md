@@ -57,10 +57,10 @@ This "lab" will be graded as follows:
 
 Score | Criteria
 ----- | --------
-4 | 5 figures are sketched, measured, and perimeters are calculated accurately.
-3 | 5 figures are sketched and measured.  Some perimeters are calculated accurately.  Or less than 5 figures are sketched, measured, and perimeters are calculated accurately.
-2 | Some figures are sketched, measured, and perimeters are calculated accurately.
-1 | An attempt has been made to sketch, measure, and calculate any of the figures.
+4 | 5 figures are sketched, measured, and areas are estimated accurately.
+3 | 5 figures are sketched and measured.  Some areas are estimated accurately.  Or less than 5 figures are sketched, measured, and areas are estimated accurately.
+2 | Some figures are sketched, measured, and areas are estimated accurately.
+1 | An attempt has been made to sketch, measure, and estimate any of the figures.
 0 | No attempt has been made to do the lab.
 
 A multiplier may be given to the lab (2.5) to make it worth more points (10).
