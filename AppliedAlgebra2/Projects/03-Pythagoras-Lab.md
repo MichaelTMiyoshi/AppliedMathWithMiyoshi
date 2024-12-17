@@ -36,3 +36,8 @@ See if you can deterine the relationship between the sides.  It may or may not b
 
 Okay.  Now that you have had a little time to think, here is the relationship.  It is called the Pythagorean Theorem.  It says that the measure of the hypotenuse squared is equal to the sum of each leg squared.
 
+$c^2 = a^2 + b^2$
+
+So when we solve for c, we get:
+
+$c = \sqrt{a^2 + b^2}$
