@@ -41,3 +41,7 @@ $c^2 = a^2 + b^2$
 So when we solve for c, we get:
 
 $c = \sqrt{a^2 + b^2}$
+
+Now, to find out how close we are, we need to consider which is our standard and subtract and divide from it and convert this to a percentage.  This will be done in a few steps below.  But first a couple conventions on notation.
+
+We will use the measured as the standard.  So c<sub>m</sub> will represent the measured value of c (the hypotenuse).
