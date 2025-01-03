@@ -62,3 +62,5 @@ b | 32 inches
 c | 40.25 inches
 
 One note about using a calculator to find %diff.  When you find the percent difference, the percent sign (%) in the equation is not used in your calculator.  It is just a symbol you use when recording your findings.  If you multiply any number in your calculator by 100%, it is the same as multiplying by 1.  So make sure that when you multiply on your calculator you just multiply by 100 and when recording the value, put the percent sign (%) behind it.  You can make sure you did not make this error by looking at the diff<sub>n</sub> and %diff and making sure they are not the exact same number.
+
+Some of the same notes about % difference are on the [linked page](https://github.com/MichaelTMiyoshi/AppliedMathWithMiyoshi/blob/main/AppliedAlgebra2/Projects/03-PercentDifferenceExplanation.md), but that page is in a more general form.
