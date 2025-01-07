@@ -33,14 +33,14 @@ You can use a figure like the following.  Notice that the longest side is labele
 
 After you measure all the sides and angles, calculate ratios.  Remember that ratios are just divisions.  Make sure to label your ratio calculations using the sides that you divide.  This will help you to know which trigonometry function to compare it to.  You could even label the ratio with sine and cosine and tangent to help you remember.  You can make a table like the following in your table to show these calculations.
 
-Trig function | ratio | trig calculation
-------------- | ----- | ----------------
-sine A | a/c = measure a / measure c | actual calculation of sin(A)
-cosine A | b/c = measure b / measure c | actual calculation of cos(A)
-tangent A | a/b = measure a / measure b | actual calculation of tan(A)
-sine B | b/c = measure b / measure c | actual calculation of sin(B)
-cosine B | a/c = measure a / measure c | actual calculation of cos(B)
-tangent B | b/a = measure b / measure a | actual calculation of tan(B)
+Trig function | ratio | ratio calculation | trig calculation (part 2)
+------------- | ----- | ----------------- | -------------------------
+sine A | a/c = measure a / measure c | actual calculation of a/c | actual calculation of sin(A)
+cosine A | b/c = measure b / measure c | actual calculation of b/c | actual calculation of cos(A)
+tangent A | a/b = measure a / measure b | actual calculation of a/b | actual calculation of tan(A)
+sine B | b/c = measure b / measure c | actual calculation of b/c | actual calculation of sin(B)
+cosine B | a/c = measure a / measure c | actual calculation of a/c | actual calculation of cos(B)
+tangent B | b/a = measure b / measure a | actual calculation of b/a | actual calculation of tan(B)
 
 
 ## Part 2 - Calculations and Comparisons (20)
