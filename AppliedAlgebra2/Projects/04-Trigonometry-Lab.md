@@ -35,12 +35,12 @@ After you measure all the sides and angles, calculate ratios.  Remember that rat
 
 Trig function | ratio | calculation
 ------------- | ----- | -----------
-sine A | a/c = measure a / measure c | actual calculation of a/c
-cosine A | b/c = measure b / measure c | actual calculation of b/c
-tangent A | a/b = measure a / measure b | actual calculation of a/b
-sine B | b/c = measure b / measure c | actual calculation of b/c
-cosine B | a/c = measure a / measure c | actual calculation of a/c
-tangent B | b/a = measure b / measure a | actual calculation of b/a
+sine A | a/c = measure a / measure c | actual calculation of sin(A)
+cosine A | b/c = measure b / measure c | actual calculation of cos(A)
+tangent A | a/b = measure a / measure b | actual calculation of tan(A)
+sine B | b/c = measure b / measure c | actual calculation of sin(B)
+cosine B | a/c = measure a / measure c | actual calculation of cos(B)
+tangent B | b/a = measure b / measure a | actual calculation of tan(B)
 
 
 ## Part 2 - Calculations and Comparisons (20)
