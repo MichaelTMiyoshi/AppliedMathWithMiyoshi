@@ -55,7 +55,34 @@ If you would like to make a table for the values and calculations, you could mak
 
 sin(A<sub>m</sub>) | a/c | difference (diff) | normalized decimal difference | % difference
 ------------- | ------------- | ----------------- | ------------------ | ------------
-The calculated sine sin(A<sub>m</sub>) | a/c | diff = sin(A<sub>m</sub>) - a/c | diff<sub>n</sub> = diff / c<sub>m</sub> | %diff = diff<sub>n</sub> * 100%
+The calculated sine sin(A<sub>m</sub>) | a/c | diff = sin(A<sub>m</sub>) - a/c | diff<sub>n</sub> = diff / sin(A<sub>m</sub>) | %diff = diff<sub>n</sub> * 100%
+
+An example
+
+```
+          |\
+          |A\
+          |  \
+     b    |   \   c
+          |    \
+          |     \
+          |C    B\
+          --------
+              a
+
+A = 30°       a = 2.500 inches
+B = 60°       b = 4.500 inches
+C = 90°       c = 5.125 inches
+```
+
+trigFn(A<sub>m</sub>) | side1/side2 | difference (diff) | normalized decimal difference | % difference
+--------------------- | ----------- | ----------------- | ----------------------------- | ------------
+sin(30°) = 0.500 | a/c = 0.488 | diff = 0.500-0.488 = 0.012 | diff<sub>n</sub> = diff / sin(A<sub>m</sub>) = 0.0120/0.500 = 0.024 | %diff = diff<sub>n</sub> * 100% = 0.024 * 100% = 2.4%
+cos(30°) = 0.868 | b/c = 0.878 | diff = 0.868-0.878 = -0.012 | diff<sub>n</sub> = diff / cos(A<sub>m</sub>) = -0.012/0.866 = -0.0139 | %diff = diff<sub>n</sub> * 100% = -0.0139 * 100% = -1.39%
+tan(30°) = 0.577 | a/b = 0.556 | diff = 0.577-0.556 = 0.021 | diff<sub>n</sub> = diff / tan(A<sub>m</sub>) = 0.021/0.577 = 0.0364 | %diff = diff<sub>n</sub> * 100% = 0.0364 * 100% = 3.64%
+sin(60°) = 0.868 | b/c = 0.878 | diff = 0.868-0.878 = -0.012 | diff<sub>n</sub> = diff / sin(B<sub>m</sub>) = -0.012/0.866 = -0.0139 | %diff = diff<sub>n</sub> * 100% = -0.0139 * 100% = -1.39%
+cos(60°) = 0.500 | a/c = 0.488 | diff = 0.500-0.488 = 0.012 | diff<sub>n</sub> = diff / cos(B<sub>m</sub>) = 0.0120/0.500 = 0.024 | %diff = diff<sub>n</sub> * 100% = 0.024 * 100% = 2.4%
+tan(60°) = 1.732 | a/b = 1.800 | diff = 1.732-1.800 = -0.068 | diff<sub>n</sub> = diff / tan(A<sub>m</sub>) = -0.068/1.732 = -0.068 | %diff = diff<sub>n</sub> * 100% = -0.068 * 100% = -3.93%
 
 One note about using a calculator to find %diff.  When you find the percent difference, the percent sign (%) in the equation is not used in your calculator.  It is just a symbol you use when recording your findings.  If you multiply any number in your calculator by 100%, it is the same as multiplying by 1.  So make sure that when you multiply on your calculator you just multiply by 100 and when recording the value, put the percent sign (%) behind it.  You can make sure you did not make this error by looking at the diff<sub>n</sub> and %diff and making sure they are not the exact same number.
 
