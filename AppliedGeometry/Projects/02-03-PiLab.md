@@ -39,10 +39,10 @@ This "lab" will be graded as follows:
 
 Score | Criteria
 ----- | --------
-4 | 5 circular figures measured (circumference and diamter) and ratio calculated accurately.  All questions all answered reasonably.
-3 | 5 circular figures measured (circumference and diamter) and ratio calculated somewhat accurately.  Or less than 5 figures measured and calculated accurately.  All questions answered somewhat reasonably or not all questions answered.
+4 | 10 circular figures measured (circumference and diamter) and ratio calculated accurately.  All questions all answered reasonably.
+3 | 10 circular figures measured (circumference and diamter) and ratio calculated somewhat accurately.  Or less than 10 figures measured and calculated accurately.  All questions answered somewhat reasonably or not all questions answered.
 2 | Some circular figures measured (circumference and diamter) and ratio calculated somewhat accurately.  Questions attempted.
 1 | An attempt has been made to measure and calculate.  An attempt has also been made to answer the questions reasonably.
 0 | No attempt has been made to do the lab or answer the questions.
 
-A multiplier may be given to the lab (2.5) to make it worth more points (10).  (Perhaps more.)
+A multiplier may be given to the lab (5) to make it worth more points (200).  (Perhaps more.)
