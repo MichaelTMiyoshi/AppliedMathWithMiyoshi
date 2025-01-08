@@ -49,7 +49,7 @@ Use your calculator to calculate sine A, cosine A, tangent A, sine B, cosine B, 
 
 Now, to find out how close we are, we need to consider which is our standard and subtract and divide from it and convert this to a percentage.  This will be done in a few steps below.  But first a couple conventions on notation.
 
-We will use the calculated sine, cosing, and tangent values as the standards.  So sin(A<sub>m</sub>) will represent the measured value of sine of the measured angle A.  We are comparing the sine, cosine, and tangent values to the ratios of our measured sides.
+We will use the calculated sine, cosine, and tangent values as the standards.  So sin(A<sub>m</sub>) will represent the measured value of sine of the measured angle A.  We are comparing the sine, cosine, and tangent values to the ratios of our measured sides.  (You could argue that your measurements for lengths are more accurate, so you could use the ratios you calculated as the standard values.  And you may do this in your lab if you indicate you want to do that.)
 
 If you would like to make a table for the values and calculations, you could make something like the following (shown only for sine):
 
