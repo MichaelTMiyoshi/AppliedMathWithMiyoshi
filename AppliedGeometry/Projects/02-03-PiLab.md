@@ -45,4 +45,4 @@ Score | Criteria
 1 | An attempt has been made to measure and calculate.  An attempt has also been made to answer the questions reasonably.
 0 | No attempt has been made to do the lab or answer the questions.
 
-A multiplier may be given to the lab (5) to make it worth more points (200).  (Perhaps more.)
+A multiplier may be given to the lab (5) to make it worth more points (20).  (Perhaps more.)
