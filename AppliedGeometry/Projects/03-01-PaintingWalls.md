@@ -48,4 +48,6 @@ Make your project beautiful.  Use a straight edge and a scale to make your drawi
 
 The extension is not part of the total.  It can add to your points, but you cannot receive more than the maximum points for the project (per current school policy).
 
+The project shows that it is worth 20 points, but it may be normalized to a different point total.
+
 The [grading rubric](https://github.com/MichaelTMiyoshi/AppliedMathWithMiyoshi/blob/main/GradingCriteria.md) will be used to grade each section.
