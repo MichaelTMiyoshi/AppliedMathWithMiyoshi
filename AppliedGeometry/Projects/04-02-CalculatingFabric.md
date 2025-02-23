@@ -20,7 +20,9 @@ You will calculate:
 * The surface area of the palm area;
 * Amount of fabric including 5% waste
 
-## Note: The base of each finger is a circle (approximately), but to find the surface area, you do not need to include both bases.  You only need to calculate the lateral area of the palm area of the hand because the fingers are attached at one end and the other end is open for inserting the hand.  So neither base is needed in the surface area calculation of the palm area.
+## Note
+
+The base of each finger is a circle (approximately), but to find the surface area, you do not need to include both bases.  You only need to calculate the lateral area of the palm area of the hand because the fingers are attached at one end and the other end is open for inserting the hand.  So neither base is needed in the surface area calculation of the palm area.
 
 The elements will have the following points associated with them.
 
