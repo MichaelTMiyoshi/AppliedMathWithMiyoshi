@@ -1,4 +1,4 @@
-Resume Rubric
+# Resume Rubric
 
 (Note: modified FFA resume rubric)
 
